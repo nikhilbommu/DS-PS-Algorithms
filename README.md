@@ -9,7 +9,7 @@ Problem | Solution
 ------- | --------
 [11](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/container-with-most-water.py)
 [14](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/longest-common-prefix.py)
-
+[1436](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Destination-City.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
