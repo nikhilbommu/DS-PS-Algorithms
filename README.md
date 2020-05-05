@@ -11,7 +11,7 @@ Problem | Solution
 [14](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/longest-common-prefix.py)
 [1436](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Destination-City.py)
 [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumScoreAfterSplittingaString.py)
-
+[387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
@@ -20,3 +20,4 @@ Problem | Solution
 [Day-2](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/JewelsAndStones.py) -- [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/JewelsAndStones.java)
 [Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/RansomNote.py) -- [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/RansomNote.java)
 [Day-4](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/NumberCompliment.py) -- [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/NumberCompliment.java)
+[Day-5](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
