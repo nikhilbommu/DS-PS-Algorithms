@@ -23,6 +23,8 @@ Problem | Solution
 [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindTheDistanceValueBetweenTwoArrays.py)
 [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LuckyNumberInaMatrix.py)
 [1374](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/GenerateaStringWithCharactersThatHaveOddCounts.py)
+[1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindNUniqueIntegersSumuptoZero.py)
+
 
 ## LeetCode Challenges:
 ### May Challenge 2020
