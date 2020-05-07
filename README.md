@@ -20,7 +20,7 @@ Problem | Solution
 [1399](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CountLargestGroup.py)
 [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindLuckyIntegerInAnArray.py)
 [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CreateTargetArrayInGivenOrder.py)
-
+[1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindTheDistanceValueBetweenTwoArrays.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
