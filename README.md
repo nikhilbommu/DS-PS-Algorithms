@@ -14,6 +14,7 @@ Problem | Solution
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
+[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
 
 ## LeetCode Challenges:
 ### May Challenge 2020
