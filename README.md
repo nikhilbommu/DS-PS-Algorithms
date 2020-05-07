@@ -17,6 +17,9 @@ Problem | Solution
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
 [1408](https://leetcode.com/problems/string-matching-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/StringMatchingInAnArray.py)
 [1403](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumSubsequenceInaNon-IncreasingOrder.py)
+[1399](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CountLargestGroup.py)
+[1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindLuckyIntegerInAnArray.py)
+
 
 ## LeetCode Challenges:
 ### May Challenge 2020
