@@ -15,7 +15,7 @@ Problem | Solution
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
-
+[1408](https://leetcode.com/problems/string-matching-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/StringMatchingInAnArray.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
