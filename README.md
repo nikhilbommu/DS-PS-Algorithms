@@ -24,6 +24,8 @@ Problem | Solution
 [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LuckyNumberInaMatrix.py)
 [1374](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/GenerateaStringWithCharactersThatHaveOddCounts.py)
 [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindNUniqueIntegersSumuptoZero.py)
+[1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStepstoReduceaNumbertoZero.py)
+
 
 
 ## LeetCode Challenges:
