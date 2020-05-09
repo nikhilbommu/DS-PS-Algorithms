@@ -10,3 +10,5 @@ class Solution:
             mul = mul * 10
             num = num // 10
         return temp + add
+s = Solution()
+print(s.maximum69Number(9699))
