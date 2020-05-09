@@ -26,7 +26,7 @@ Problem | Solution
 [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindNUniqueIntegersSumuptoZero.py)
 [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStepstoReduceaNumbertoZero.py)
 [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RemovePalindromicSubsequences.py)
-
+[1323](https://leetcode.com/problems/maximum-69-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Maximum69Number.py)
 
 
 ## LeetCode Challenges:
