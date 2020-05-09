@@ -27,8 +27,7 @@ Problem | Solution
 [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStepstoReduceaNumbertoZero.py)
 [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RemovePalindromicSubsequences.py)
 [1323](https://leetcode.com/problems/maximum-69-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Maximum69Number.py)
-
-
+[1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConvertIntegertotheSumofTwoNo-ZeroIntegers.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
