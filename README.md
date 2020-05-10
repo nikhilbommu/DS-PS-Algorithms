@@ -28,6 +28,8 @@ Problem | Solution
 [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RemovePalindromicSubsequences.py)
 [1323](https://leetcode.com/problems/maximum-69-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Maximum69Number.py)
 [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConvertIntegertotheSumofTwoNo-ZeroIntegers.py)
+[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/DecompressRun-LengthEncodedList.py)
+
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
