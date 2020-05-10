@@ -31,6 +31,8 @@ Problem | Solution
 [1313](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/DecompressRun-LengthEncodedList.py)
 [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/DecryptStringFromAlphabetToIntegerMapping.py)
 [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReplaceElementswithGreatestElementonRightSide.py)
+[1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ElementAppearingMoreThan25%25InSortedArray.py)
+
 
 ## LeetCode Challenges:
 ### May Challenge 2020
