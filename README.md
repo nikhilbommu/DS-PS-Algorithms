@@ -33,7 +33,7 @@ Problem | Solution
 [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReplaceElementswithGreatestElementonRightSide.py)
 [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ElementAppearingMoreThan25%25InSortedArray.py)
 [1237](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindPositiveIntegerSolutionforaGivenEquation.py)
-
+[1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CellswithOddValuesinaMatrix.py)
 
 
 ## LeetCode Challenges:
