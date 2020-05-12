@@ -49,3 +49,5 @@ Problem | Solution
 [Day-7](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/CousinsInBinaryTree.py)
 [Day-8](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/CheckIfItIsaStraightLine.py)
 [Day-9](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/FindtheTownJudge.py)
+
+[Day-12](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/SIngleElementInaSortedArray.py)
