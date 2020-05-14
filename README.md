@@ -7,6 +7,7 @@ Repository that contains solutions to all leetcode challenges, problems, hackerr
 ## LeetCode Problems:
 Problem | Solution
 ------- | --------
+[7](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseInteger.py)
 [9](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/PalindromeNumber.py)
 [11](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/container-with-most-water.py)
 [14](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/longest-common-prefix.py)
