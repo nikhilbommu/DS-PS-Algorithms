@@ -18,6 +18,7 @@ Problem | Solution
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [299](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BullsAndCows.py)
+[392](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsSubsequence.py)
 [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaxConsecutiveOnes.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
