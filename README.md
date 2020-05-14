@@ -10,6 +10,7 @@ Problem | Solution
 [9](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/PalindromeNumber.py)
 [11](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/container-with-most-water.py)
 [14](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/longest-common-prefix.py)
+[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RemoveDuplicatesFromSortedArray.py)
 [1436](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Destination-City.py)
 [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumScoreAfterSplittingaString.py)
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
