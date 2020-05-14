@@ -15,4 +15,4 @@ class Solution:
         return False
 
 s = Solution()
-print(s.isPalindrome(121))
+print(s.isPalindrome(123))
