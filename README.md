@@ -19,6 +19,7 @@ Problem | Solution
 [205](https://leetcode.com/problems/isomorphic-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsomorphicStrings.py)
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [299](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BullsAndCows.py)
+[303](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RangeSumQuery-Immutable.py)
 [392](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsSubsequence.py)
 [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaxConsecutiveOnes.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
