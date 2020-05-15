@@ -17,6 +17,7 @@ Problem | Solution
 [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumScoreAfterSplittingaString.py)
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FirstUniqueCharacterInaString.py)
 [205](https://leetcode.com/problems/isomorphic-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsomorphicStrings.py)
+[268](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MissingNumber.py)
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [290](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/WordPattern.py)
 [299](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BullsAndCows.py)
