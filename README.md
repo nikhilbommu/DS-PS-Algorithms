@@ -25,6 +25,7 @@ Problem | Solution
 [392](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsSubsequence.py)
 [412](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FizzBuzz.py)
 [441](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ArrangingCoins.py)
+[459](https://leetcode.com/problems/repeated-substring-pattern/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RepeatedSubstringpattern.py)
 [482](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LicenseKeyFormatting.py)
 [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaxConsecutiveOnes.py)
 [724](https://leetcode.com/problems/find-pivot-index/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindPivotIndex.py)
