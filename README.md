@@ -8,6 +8,7 @@ Repository that contains solutions to all leetcode challenges, problems, hackerr
 Problem | Solution
 ------- | --------
 [1](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/TwoSum.py)
+[5](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestPalindromicSubstring.py)
 [7](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseInteger.py)
 [9](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/PalindromeNumber.py)
 [11](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/container-with-most-water.py)
