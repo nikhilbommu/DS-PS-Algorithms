@@ -33,6 +33,7 @@ Problem | Solution
 [412](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FizzBuzz.py)
 [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberOfSdegmentsInaString.py)
 [441](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ArrangingCoins.py)
+[451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortCharactersByFrequency.py)
 [459](https://leetcode.com/problems/repeated-substring-pattern/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RepeatedSubstringpattern.py)
 [482](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LicenseKeyFormatting.py)
 [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaxConsecutiveOnes.py)
@@ -90,3 +91,5 @@ Problem | Solution
 [Day-18](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/PermutationInaString.py)
 [Day-19](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/OnlineStockSpan.py)
 [Day-20](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/KthSmallestElementInaBST.py)
+[Day-21](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/CountSquareSubmatriceswithAllOnes.py)
+[Day-22](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Challenges/May%20LeetCode%20Challenge/SortCharactersByFrequency.py)
