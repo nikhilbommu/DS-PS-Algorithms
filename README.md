@@ -46,6 +46,7 @@ Problem | Solution
 [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestWordinDictionary.py)
 [724](https://leetcode.com/problems/find-pivot-index/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindPivotIndex.py)
 [819](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MostCommonWord.py)
+[859](https://leetcode.com/problems/buddy-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BuddyStrings.py)
 [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncommonWordsfromTwoSentences.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
 [1046](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LastStoneWeight.py)
