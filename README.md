@@ -41,6 +41,7 @@ Problem | Solution
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseWordsInsStringIII.py)
 [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumIndexSumOfTwoLists.py)
 [566](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReshapeTheMatrix.py)
+[663](https://leetcode.com/problems/sum-of-square-numbers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SumOfSquareNumbers.py)
 [645](https://leetcode.com/problems/set-mismatch/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SetMismatch.py)
 [682](https://leetcode.com/problems/baseball-game/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BaseballGame.py)
 [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestWordinDictionary.py)
