@@ -39,6 +39,7 @@ Problem | Solution
 [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaxConsecutiveOnes.py)
 [492](https://leetcode.com/problems/construct-the-rectangle/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConstructTheRectangle.py )
 [496](https://leetcode.com/problems/next-greater-element-i/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NextGreaterElementI.py)
+[500](https://leetcode.com/problems/keyboard-row/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KeyboardRow.py)
 [506](https://leetcode.com/problems/relative-ranks/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RelativeRanks.py)
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseWordsInsStringIII.py)
 [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumIndexSumOfTwoLists.py)
