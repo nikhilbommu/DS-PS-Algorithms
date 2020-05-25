@@ -9,3 +9,4 @@ class Solution:
 s = Solution()
 print(s.uniquePaths(3,2))
 print(s.uniquePaths(7,3))
+print(s.uniquePaths(3,3))
