@@ -58,6 +58,7 @@ Problem | Solution
 [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncommonWordsfromTwoSentences.py)
 [986](https://leetcode.com/problems/interval-list-intersections/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IntervalListIntersection.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
+[1035](https://leetcode.com/problems/uncrossed-lines/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncrossedLines.py)
 [1046](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LastStoneWeight.py)
 [1051](https://leetcode.com/problems/height-checker/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/HeightChecker.py)
 [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestCommonSubsequence.py)
