@@ -56,6 +56,7 @@ Problem | Solution
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
 [1046](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LastStoneWeight.py)
 [1051](https://leetcode.com/problems/height-checker/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/HeightChecker.py)
+[1143](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestCommonSubsequence.py)
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
 [1408](https://leetcode.com/problems/string-matching-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/StringMatchingInAnArray.py)
 [1403](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumSubsequenceInaNon-IncreasingOrder.py)
