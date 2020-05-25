@@ -17,6 +17,7 @@ Problem | Solution
 [14](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/longest-common-prefix.py)
 [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RemoveDuplicatesFromSortedArray.py)
 [62](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UniquePaths.py)
+[63](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UniquePathsII.py)
 [1436](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Destination-City.py)
 [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumScoreAfterSplittingaString.py)
 [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/EvaluateReversePolishNotation.py)
