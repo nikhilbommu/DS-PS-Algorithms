@@ -28,6 +28,7 @@ Problem | Solution
 [204](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CountPrimes.py)
 [205](https://leetcode.com/problems/isomorphic-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsomorphicStrings.py)
 [238](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/product-of-arrays-except-self.py)
+[242](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ValidAnagram.py)
 [268](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MissingNumber.py)
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [290](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/WordPattern.py)
