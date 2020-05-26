@@ -36,6 +36,7 @@ Problem | Solution
 [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RangeSumQuery-Immutable.py)
 [392](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsSubsequence.py)
 [412](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FizzBuzz.py)
+[414](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ThirdMaximumNumber.py)
 [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberOfSdegmentsInaString.py)
 [441](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ArrangingCoins.py)
 [451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortCharactersByFrequency.py)
