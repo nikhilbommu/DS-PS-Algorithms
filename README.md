@@ -19,6 +19,7 @@ Problem | Solution
 [62](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UniquePaths.py)
 [63](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UniquePathsII.py)
 [64](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumPathSum.py)
+[91](https://leetcode.com/problems/decode-ways/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/DecodeWays.py)
 [1436](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/Destination-City.py)
 [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumScoreAfterSplittingaString.py)
 [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/EvaluateReversePolishNotation.py)
