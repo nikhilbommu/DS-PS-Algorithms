@@ -63,6 +63,7 @@ Problem | Solution
 [824](https://leetcode.com/problems/goat-latin/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/GoatLatin.py) 
 [859](https://leetcode.com/problems/buddy-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BuddyStrings.py)
 [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncommonWordsfromTwoSentences.py)
+[977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SquaresOfaSortedArray.py)
 [986](https://leetcode.com/problems/interval-list-intersections/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IntervalListIntersection.py)
 [75](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SortColors.py)
 [1035](https://leetcode.com/problems/uncrossed-lines/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncrossedLines.py)
