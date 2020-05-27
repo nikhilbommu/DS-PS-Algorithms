@@ -58,6 +58,7 @@ Problem | Solution
 [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestWordinDictionary.py)
 [724](https://leetcode.com/problems/find-pivot-index/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindPivotIndex.py)
 [819](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MostCommonWord.py)
+[824](https://leetcode.com/problems/goat-latin/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/GoatLatin.py) 
 [859](https://leetcode.com/problems/buddy-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BuddyStrings.py)
 [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/UncommonWordsfromTwoSentences.py)
 [986](https://leetcode.com/problems/interval-list-intersections/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IntervalListIntersection.py)
