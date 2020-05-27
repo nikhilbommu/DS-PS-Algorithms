@@ -52,6 +52,7 @@ Problem | Solution
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseWordsInsStringIII.py)
 [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumIndexSumOfTwoLists.py)
 [566](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReshapeTheMatrix.py)
+[605](https://leetcode.com/problems/can-place-flowers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CanPlaceFlowers.py)
 [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MaximumProductOfThreeNumbers.py)
 [663](https://leetcode.com/problems/sum-of-square-numbers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SumOfSquareNumbers.py)
 [645](https://leetcode.com/problems/set-mismatch/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SetMismatch.py)
