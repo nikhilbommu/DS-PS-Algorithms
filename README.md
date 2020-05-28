@@ -50,6 +50,7 @@ Problem | Solution
 [500](https://leetcode.com/problems/keyboard-row/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KeyboardRow.py)
 [506](https://leetcode.com/problems/relative-ranks/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RelativeRanks.py)
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseWordsInsStringIII.py)
+[561](https://leetcode.com/problems/array-partition-i/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ArrayPartitionI.py)
 [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumIndexSumOfTwoLists.py)
 [566](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReshapeTheMatrix.py)
 [605](https://leetcode.com/problems/can-place-flowers/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CanPlaceFlowers.py)
