@@ -59,6 +59,7 @@ Problem | Solution
 [682](https://leetcode.com/problems/baseball-game/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BaseballGame.py)
 [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestWordinDictionary.py)
 [724](https://leetcode.com/problems/find-pivot-index/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindPivotIndex.py)
+[766](https://leetcode.com/problems/toeplitz-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ToeplitzMatrix.py)
 [819](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MostCommonWord.py)
 [824](https://leetcode.com/problems/goat-latin/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/GoatLatin.py) 
 [859](https://leetcode.com/problems/buddy-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BuddyStrings.py)
