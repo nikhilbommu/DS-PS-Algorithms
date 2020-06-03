@@ -34,6 +34,7 @@ Problem | Solution
 [269](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MajorityElement.py)
 [290](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/WordPattern.py)
 [299](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/BullsAndCows.py)
+[300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestIncreasingSubsequence.py)
 [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RangeSumQuery-Immutable.py)
 [392](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IsSubsequence.py)
 [409](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestPalindrome.py)
