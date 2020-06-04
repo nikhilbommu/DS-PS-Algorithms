@@ -51,6 +51,7 @@ Problem | Solution
 [496](https://leetcode.com/problems/next-greater-element-i/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NextGreaterElementI.py)
 [500](https://leetcode.com/problems/keyboard-row/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KeyboardRow.py)
 [506](https://leetcode.com/problems/relative-ranks/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RelativeRanks.py)
+[516](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestPalindromicSubsequence.py)
 [520](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/DetectCapital.py)
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReverseWordsInsStringIII.py)
 [561](https://leetcode.com/problems/array-partition-i/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ArrayPartitionI.py)
