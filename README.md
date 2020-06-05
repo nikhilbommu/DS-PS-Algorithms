@@ -82,6 +82,7 @@ Problem | Solution
 [1078](https://leetcode.com/problems/occurrences-after-bigram/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/OccurencesAfterBigram.py)
 [1122](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RelativeSortArray.py)
 [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LongestCommonSubsequence.py)
+[1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/FindWordsThatCanBeFormedbyCharacters.py)
 [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/KidsWithTheGreatestNumberOfCandies.py)
 [1408](https://leetcode.com/problems/string-matching-in-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/StringMatchingInAnArray.py)
 [1403](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/MinimumSubsequenceInaNon-IncreasingOrder.py)
