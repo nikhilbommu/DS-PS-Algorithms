@@ -104,6 +104,7 @@ Problem | Solution
 [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CellswithOddValuesinaMatrix.py)
 [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SplitaStringinBalancedStrings.py)
 [1268](https://leetcode.com/problems/search-suggestions-system/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SearchSuggestionsSystem.py)
+[1331](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RankTransformOfAnArray.py)
 [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/TheKWeakestRowsinaMatrix.py)
 [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IncreasingDecreasingString.py)
 [1417](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReformatTheString.py)
