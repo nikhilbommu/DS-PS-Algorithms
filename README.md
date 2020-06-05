@@ -105,6 +105,7 @@ Problem | Solution
 [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SplitaStringinBalancedStrings.py)
 [1268](https://leetcode.com/problems/search-suggestions-system/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/SearchSuggestionsSystem.py)
 [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IncreasingDecreasingString.py)
+[1417](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReformatTheString.py)
 [1446](https://leetcode.com/problems/consecutive-characters/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConsecutiveCharacters.py)
 [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStudentsDoingHomeworkataGivenTime.py)
 [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)
