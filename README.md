@@ -112,6 +112,7 @@ Problem | Solution
 [1446](https://leetcode.com/problems/consecutive-characters/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConsecutiveCharacters.py)
 [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStudentsDoingHomeworkataGivenTime.py)
 [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)
+[1470](https://leetcode.com/problems/shuffle-the-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ShuffleTheArray.py)
 ## LeetCode Challenges:
 ### May Challenge 2020
 Problem | Solution
