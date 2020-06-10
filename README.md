@@ -108,6 +108,7 @@ Problem | Solution
 [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/RankTransformOfAnArray.py)
 [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/TheKWeakestRowsinaMatrix.py)
 [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/IncreasingDecreasingString.py)
+[1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/LuckyNumberInaMatrix.py)
 [1417](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ReformatTheString.py)
 [1446](https://leetcode.com/problems/consecutive-characters/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/ConsecutiveCharacters.py)
 [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](https://github.com/nikhilbommu/DS-PS-Algorithms/blob/master/Leetcode/LeetCode%20Problems/NumberofStudentsDoingHomeworkataGivenTime.py)
